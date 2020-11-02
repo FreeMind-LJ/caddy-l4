@@ -19,7 +19,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/caddyserver/caddy/v2"
+	"github.com/freemind-lj/caddy/v2"
 	"github.com/mholt/caddy-l4/layer4"
 	"go.uber.org/zap"
 )

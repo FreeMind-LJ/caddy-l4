@@ -19,8 +19,8 @@ import (
 	"fmt"
 	"sync/atomic"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp/reverseproxy"
+	"github.com/freemind-lj/caddy/v2"
+	"github.com/freemind-lj/caddy/v2/modules/caddyhttp/reverseproxy"
 )
 
 // UpstreamPool is a collection of upstreams.

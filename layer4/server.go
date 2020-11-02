@@ -21,7 +21,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/caddyserver/caddy/v2"
+	"github.com/freemind-lj/caddy/v2"
 	"go.uber.org/zap"
 )
 
